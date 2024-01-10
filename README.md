@@ -1,5 +1,5 @@
 ### Hi there<h1 align="center">Hi 👋, I'm Romuald Demsong</h1>
-<h3 align="center">A passionate Data scientist living in the United States</h3>
+<h3 align="center">A passionate Cloud specialist living in the United States</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
